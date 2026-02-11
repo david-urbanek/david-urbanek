@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full-stack Developer ve výcviku
 
-Aktuálně se zaměřuji na budování moderních webových aplikací a neustále rozšiřuji své dovednosti v ekosystému JavaScriptu a Javy.
+Aktuálně se zaměřuji na budování moderních webových aplikací a neustále rozšiřuji své dovednosti v ekosystému JavaScriptu.
 
 ---
 
