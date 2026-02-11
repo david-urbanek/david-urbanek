@@ -7,9 +7,9 @@ Aktuálně se zaměřuji na budování moderních webových aplikací a neustál
 ---
 
 ### 🚀 Co mě baví a na čem pracuji:
-- 🌐 **Web Development:** Aktuálně drtím HTML5, CSS3 a moderní JavaScript.
+- 🌐 **Web Development:** Aktuálně drtím hlavně LLM modely, ale během vývoje se momentálně zaměřuji více na strukturu projektu než na samostanté programování.
 - ⚡ **Frameworky:** Začínám experimentovat s Reactem a Next.js.
-- 🛠️ **Projekty:** Pracuji na vlastním portfoliu a menších projekte primárně pro malé firmy.
+- 🛠️ **Projekty:** Pracuji na vlastním portfoliu a menších projektech primárně pro malé firmy.
 
 ### 🛠️ Technologie & Nástroje:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
