@@ -26,7 +26,7 @@ Aktuálně se zaměřuji na budování moderních webových aplikací a neustál
 
 ### 📫 Kde mě najdeš:
 - **GitHub:** Právě tady! Sleduj moje commity a progres.
-- **LinkedIn:** [Tvůj odkaz sem] (volitelné)
+- **LinkedIn:** [https://www.linkedin.com/in/david-urb%C3%A1nek-144253268/] 
 
 ---
 
