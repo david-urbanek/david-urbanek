@@ -1,10 +1,9 @@
 # David Urbánek
-
-Full-stack developer zaměřený na budování webových aplikací a automatizaci pomocí AI.
+Full-stack developer specializing in web applications, AI integration and process automation.
 
 ---
 
-### Technologie
+### Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,12 +16,10 @@ Full-stack developer zaměřený na budování webových aplikací a automatizac
 
 ---
 
-### Aktuálně
-
-Pracuji na projektech kombinujících webový vývoj s LLM modely a AI nástroji. Zaměřuji se na Node.js backend, Next.js frontend a automatizaci pomocí Pythonu.
+### Currently
+I am currently working at Spilberk, a real estate investment fund, where I am developing a booking portal and digitalizing the fund's internal processes. Alongside this, I work on projects combining web development with LLM models and AI tools — primarily in Node.js, Next.js and Python.
 
 ---
 
-### Kontakt
-
+### Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-urb%C3%A1nek-144253268/)
